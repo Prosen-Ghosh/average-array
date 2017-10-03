@@ -1,7 +1,7 @@
 # average-array
 A JavaScript Package for calculating average from an array. Also it will work for non-number array and it will ignore the non-numbers.
 
-![npm](https://img.shields.io/npm/v/average-array.svg) ![license](https://img.shields.io/npm/l/average-array.svg) ![github-issues](https://img.shields.io/github/issues/Prosen-Ghosh/average-array.svg)  ![Circle CI build status](https://circleci.com/gh/Prosen-Ghosh/average-array.svg?style=svg)
+![npm](https://img.shields.io/npm/v/average-array.svg) ![license](https://img.shields.io/npm/l/average-array.svg) ![github-issues](https://img.shields.io/github/issues/Prosen-Ghosh/average-array.svg)
 
 ![nodei.co](https://nodei.co/npm/average-array.png?downloads=true&downloadRank=true&stars=true)
 
@@ -20,12 +20,12 @@ A JavaScript Package for calculating average from an array. Also it will work fo
 
 #### For Development
 ```js
-<script src=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/average-array/master/average.js"></script>
 ```
 
 #### For Production
 ```js
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/average-array/6dac0302/average.js"></script>
 ```
 
 ## Usage

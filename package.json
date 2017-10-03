@@ -1,0 +1,32 @@
+{
+  "name": "average-array",
+  "version": "1.0.0",
+  "description": "A JavaScript Package for calculating average from an array. Also it will work for non-number array and it will ignore the non-numbers.",
+  "main": "average.js",
+  "scripts": {
+    "test": "mocha",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/average-array.git"
+  },
+  "keywords": [
+    "average",
+    "array",
+    "element",
+    "number",
+    "non-number"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/average-array/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/average-array#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.0",
+    "node-readme": "^0.1.9"
+  }
+}
